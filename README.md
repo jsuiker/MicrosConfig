@@ -10,6 +10,6 @@
 
 * Download the zip file
 * Unzip it
-* Right click on the Windows PowerShell icon and select open as administrator)
+* Open a command prompt as an administrator
 * Navigate to the unzipped folder
-* .\index.ps1
+* PowerShell.exe -ExecutionPolicy Bypass -File .\index.ps1
