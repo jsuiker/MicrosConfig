@@ -8,8 +8,8 @@
 
 ## Usage
 
-Download the zip file
-Unzip it
-Right click on the Windows PowerShell icon and select open as administrator)
-Navigate to the unzipped folder
-.\index.ps1
+* Download the zip file
+* Unzip it
+* Right click on the Windows PowerShell icon and select open as administrator)
+* Navigate to the unzipped folder
+* .\index.ps1
