@@ -1,5 +1,5 @@
 iex ('regedit /s .\notifications\DisableNotificationBalloons.reg')
-iex ('regedit /s .\notifications\DisableActionCenter(CurrentUser).reg')
+iex ('regedit /s .\notifications\DisableActionCenter.reg')
 iex ('.\power\power_plan.ps1')
 iex ('.\services\services.ps1')
 
